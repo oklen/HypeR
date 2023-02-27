@@ -1,2 +1,2 @@
 # HypeR
-Official code for the paper "HYPER: MULTITASK HYPER-PROMPTED TRAINING ENABLES LARGE-SCALE RETRIEVAL GENERALIZATION"
+Code will be released soon.
